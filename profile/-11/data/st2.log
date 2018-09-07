@@ -1,0 +1,247 @@
+13:15:58 - Update Info TX: SETLED,2,OFF
+13:16:08 - Update Info TX: SETLED,2,ORANGE
+13:16:08 - Update SCRIPT: Analyzis started by User or Current
+13:16:08 - Update Info RX: 1 1s 4820mV 712mA 0
+13:16:08 - Update Erasure RX: CONNECTED
+13:16:08 - Update Info TX: SETLED,2,ORANGE
+13:16:09 - Update Info RX: 2 2s 4832mV 681mA 0
+13:16:10 - Update Info RX: 2 3s 4868mV 586mA 0
+13:16:11 - Update Info RX: 2 4s 4860mV 585mA 0
+13:16:11 - Update SCRIPT: RUN
+13:16:12 - Update Info RX: 2 5s 4852mV 586mA 0
+13:16:13 - Update Info RX: 2 6s 4848mV 586mA 0
+13:16:14 - Update Info RX: 2 7s 4844mV 586mA 0
+13:16:15 - Update Info RX: 2 8s 4848mV 587mA 0
+13:16:16 - Update Info RX: 2 9s 4844mV 586mA 0
+13:16:17 - Update Info RX: 2 10s 4848mV 587mA 0
+13:16:18 - Update Info RX: 2 11s 4852mV 586mA 0
+13:16:19 - Update Info RX: 2 12s 4852mV 586mA 0
+13:16:20 - Update Info RX: 2 13s 4852mV 585mA 0
+13:16:21 - Update Info RX: 2 14s 4856mV 587mA 0
+13:16:21 - Update SCRIPT: RUN
+13:16:21 - Update Info RX: 2 15s 4852mV 588mA 0
+13:16:22 - Update Info RX: 2 16s 4856mV 587mA 0
+13:16:23 - Update Info RX: 2 17s 4852mV 586mA 0
+13:16:24 - Update Info RX: 2 18s 4856mV 587mA 0
+13:16:25 - Update Info RX: 2 19s 4852mV 587mA 0
+13:16:26 - Update Info RX: 2 20s 4852mV 587mA 0
+13:16:27 - Update Info RX: 2 21s 4856mV 586mA 0
+13:16:28 - Update Info RX: 2 22s 4852mV 587mA 0
+13:16:29 - Update Info RX: 2 23s 4856mV 587mA 0
+13:16:30 - Update Info RX: 2 24s 4852mV 587mA 0
+13:16:31 - Update Info RX: 2 25s 4852mV 587mA 0
+13:16:31 - Update SCRIPT: RUN
+13:16:32 - Update Info RX: 2 26s 4852mV 584mA 0
+13:16:33 - Update Info RX: 2 27s 4852mV 587mA 0
+13:16:34 - Update Info RX: 2 28s 4852mV 586mA 0
+13:16:35 - Update Info RX: 2 29s 4852mV 587mA 0
+13:16:36 - Update Info RX: 2 30s 4856mV 586mA 0
+13:16:37 - Update Info RX: 2 31s 4856mV 588mA 0
+13:16:38 - Update Info RX: 2 32s 4852mV 587mA 0
+13:16:39 - Update Info RX: 2 33s 4856mV 587mA 0
+13:16:40 - Update Info RX: 2 34s 4852mV 588mA 0
+13:16:41 - Update Info RX: 2 35s 4852mV 587mA 0
+13:16:41 - Update SCRIPT: RUN
+13:16:42 - Update Info RX: 2 36s 4856mV 586mA 0
+13:16:43 - Update Info RX: 2 37s 4852mV 586mA 0
+13:16:44 - Update Info RX: 2 38s 4856mV 586mA 0
+13:16:45 - Update Info RX: 2 39s 4852mV 588mA 0
+13:16:46 - Update Info RX: 2 40s 4852mV 586mA 0
+13:16:47 - Update Info RX: 2 41s 4852mV 589mA 0
+13:16:48 - Update Info RX: 2 42s 4852mV 587mA 0
+13:16:49 - Update Info RX: 2 43s 4852mV 586mA 0
+13:16:50 - Update Info RX: 2 44s 4852mV 585mA 0
+13:16:51 - Update Info RX: 2 45s 4856mV 588mA 0
+13:16:51 - Update SCRIPT: RUN
+13:16:52 - Update Info RX: 2 46s 4852mV 586mA 0
+13:16:53 - Update Info RX: 2 47s 4852mV 588mA 0
+13:16:54 - Update Info RX: 2 48s 4852mV 588mA 0
+13:16:55 - Update Info RX: 2 49s 4848mV 587mA 0
+13:16:56 - Update Info RX: 2 50s 4856mV 587mA 0
+13:16:57 - Update Info RX: 2 51s 4852mV 587mA 0
+13:16:58 - Update Info RX: 2 52s 4852mV 586mA 0
+13:16:59 - Update Info RX: 2 53s 4852mV 585mA 0
+13:17:00 - Update Info RX: 2 54s 4852mV 587mA 0
+13:17:01 - Update Info RX: 2 55s 4852mV 587mA 0
+13:17:01 - Update SCRIPT: RUN
+13:17:01 - Update Info RX: 2 56s 4852mV 588mA 0
+13:17:02 - Update Info RX: 2 57s 4852mV 587mA 0
+13:17:03 - Update Info RX: 2 58s 4852mV 588mA 0
+13:17:04 - Update Info RX: 2 59s 4852mV 588mA 0
+13:17:05 - Update Info RX: 2 60s 4852mV 587mA 0
+13:17:06 - Update Info RX: 2 61s 4852mV 587mA 0
+13:17:07 - Update Info RX: 2 62s 4852mV 587mA 0
+13:17:08 - Update Info RX: 2 63s 4852mV 588mA 0
+13:17:09 - Update Info RX: 2 64s 4848mV 587mA 0
+13:17:10 - Update Info RX: 2 65s 4852mV 587mA 0
+13:17:11 - Update Info RX: 2 66s 4852mV 586mA 0
+13:17:11 - Update SCRIPT: ERASE
+13:17:11 - Update USB Hub TX: SETSYNC,2
+13:17:12 - Update Info RX: 2 67s 4852mV 586mA 0
+13:17:13 - Update Info RX: 2 68s 4852mV 588mA 0
+13:17:14 - Update Info RX: 2 69s 4848mV 587mA 0
+13:17:15 - Update Erasure RX: INFO
+13:17:15 - Update Erasure RX: INFO
+13:17:15 - Update Info RX: 3 70s 4852mV 588mA 0
+13:17:16 - Update Info RX: 3 71s 4852mV 587mA 0
+13:17:17 - Update Info RX: 3 72s 4852mV 587mA 0
+13:17:18 - Update Erasure RX: INFO
+13:17:18 - Update Info RX: 3 73s 4852mV 588mA 0
+13:17:19 - Update Info RX: 3 74s 4852mV 587mA 0
+13:17:20 - Update Info RX: 3 75s 4852mV 588mA 0
+13:17:21 - Update Info RX: 3 76s 4848mV 586mA 0
+13:17:21 - Update SCRIPT: RUN
+13:17:22 - Update Info RX: 3 77s 4848mV 587mA 0
+13:17:23 - Update Info RX: 3 78s 4852mV 587mA 0
+13:17:24 - Update Info RX: 3 79s 4852mV 588mA 0
+13:17:25 - Update Info RX: 3 80s 4852mV 587mA 0
+13:17:26 - Update Info RX: 3 81s 4852mV 587mA 0
+13:17:27 - Update Info RX: 3 82s 4852mV 587mA 0
+13:17:28 - Update Info RX: 3 83s 4852mV 588mA 0
+13:17:29 - Update Info RX: 3 84s 4852mV 586mA 0
+13:17:30 - Update Info RX: 3 85s 4852mV 588mA 0
+13:17:31 - Update Info RX: 3 86s 4848mV 586mA 0
+13:17:31 - Update SCRIPT: RUN
+13:17:32 - Update Info RX: 3 87s 4852mV 587mA 0
+13:17:33 - Update Info RX: 3 88s 4852mV 588mA 0
+13:17:34 - Update Info RX: 3 89s 4852mV 587mA 0
+13:17:35 - Update Info RX: 3 90s 4852mV 588mA 0
+13:17:36 - Update Info RX: 3 91s 4852mV 587mA 0
+13:17:37 - Update Info RX: 3 92s 4852mV 588mA 0
+13:17:38 - Update Info RX: 3 93s 4848mV 587mA 0
+13:17:39 - Update Info RX: 3 94s 4852mV 588mA 0
+13:17:40 - Update Info RX: 3 95s 4852mV 587mA 0
+13:17:41 - Update Info RX: 3 96s 4848mV 587mA 0
+13:17:41 - Update SCRIPT: RUN
+13:17:42 - Update Info RX: 3 97s 4852mV 588mA 0
+13:17:42 - Update Info RX: 3 98s 4852mV 588mA 0
+13:17:43 - Update Info RX: 3 99s 4848mV 588mA 0
+13:17:44 - Update Info RX: 3 100s 4852mV 586mA 0
+13:17:45 - Update Info RX: 3 101s 4848mV 586mA 0
+13:17:46 - Update Info RX: 3 102s 4852mV 589mA 0
+13:17:47 - Update Erasure RX: INFO
+13:17:47 - Update Info RX: 3 103s 4848mV 587mA 0
+13:17:48 - Update Info RX: 3 104s 4852mV 587mA 0
+13:17:49 - Update Info RX: 3 105s 4852mV 588mA 0
+13:17:50 - Update Info RX: 3 106s 4848mV 586mA 0
+13:17:51 - Update Info RX: 3 107s 4852mV 585mA 0
+13:17:51 - Update SCRIPT: RUN
+13:17:52 - Update Info RX: 3 108s 4852mV 586mA 0
+13:17:53 - Update Info RX: 3 109s 4848mV 585mA 0
+13:17:54 - Update Info RX: 3 110s 4852mV 586mA 0
+13:17:55 - Update Info RX: 3 111s 4852mV 586mA 0
+13:17:56 - Update Info RX: 3 112s 4900mV 490mA 0
+13:17:57 - Update Erasure RX: DISCONNECTED
+13:17:57 - Update Info RX: 3 113s 4900mV 490mA 0
+13:17:58 - Update Info RX: 3 114s 5020mV 267mA 0
+13:17:59 - Update Info RX: 3 115s 4948mV 405mA 0
+13:18:00 - Update Info RX: 3 116s 4964mV 365mA 0
+13:18:01 - Update Info RX: 3 117s 4988mV 324mA 0
+13:18:01 - Update SCRIPT: RUN
+13:18:02 - Update Info RX: 3 118s 4920mV 458mA 0
+13:18:02 - Update Erasure RX: INFO
+13:18:02 - Update USB Hub TX: SETCHARGE,2
+13:18:03 - Update Info RX: 1 119s 4852mV 587mA 0
+13:18:04 - Update Info RX: 1 120s 0mV 0mA 0
+13:18:05 - Update Info RX: 1 121s 4300mV 0mA 0
+13:18:06 - Update Info RX: 1 122s 4464mV 0mA 0
+13:18:07 - Update Info RX: 1 123s 4612mV 0mA 0
+13:18:08 - Update Info RX: 1 124s 0mV 0mA 0
+13:18:09 - Update Info RX: 1 125s 4832mV 657mA 0
+13:18:10 - Update Info RX: 1 126s 4844mV 663mA 0
+13:18:11 - Update Info RX: 1 127s 4844mV 666mA 0
+13:18:11 - Update SCRIPT: RUN
+13:18:12 - Update Erasure RX: INFO
+13:18:12 - Update Info RX: 1 128s 0mV 0mA 0
+13:18:13 - Update Info RX: 1 129s 4844mV 670mA 0
+13:18:14 - Update Info RX: 1 130s 4844mV 676mA 0
+13:18:15 - Update Info RX: 1 131s 4848mV 675mA 0
+13:18:16 - Update Info RX: 1 132s 4888mV 586mA 0
+13:18:17 - Update Info RX: 1 133s 4888mV 586mA 0
+13:18:18 - Update Info RX: 1 134s 5164mV 0mA 0
+13:18:19 - Update Info RX: 1 135s 4852mV 678mA 0
+13:18:20 - Update Info RX: 1 136s 4936mV 485mA 0
+13:18:21 - Update Info RX: 1 137s 4936mV 494mA 0
+13:18:21 - Update SCRIPT: RUN
+13:18:22 - Update Info RX: 1 138s 4932mV 495mA 0
+13:18:22 - Update Info RX: 1 139s 32mV 0mA 0
+13:18:23 - Update Info RX: 1 140s 4932mV 512mA 0
+13:18:24 - Update Info RX: 1 141s 4936mV 461mA 0
+13:18:25 - Update Info RX: 1 142s 4952mV 402mA 0
+13:18:26 - Update Info RX: 1 143s 4972mV 406mA 0
+13:18:27 - Update Info RX: 1 144s 4968mV 404mA 0
+13:18:28 - Update Info RX: 1 145s 0mV 0mA 0
+13:18:29 - Update Info RX: 1 146s 4848mV 680mA 0
+13:18:30 - Update Info RX: 1 147s 4848mV 678mA 0
+13:18:31 - Update Info RX: 1 148s 4956mV 451mA 0
+13:18:31 - Update SCRIPT: RUN
+13:18:32 - Update Info RX: 1 149s 4936mV 491mA 0
+13:18:33 - Update Info RX: 1 150s 4936mV 490mA 0
+13:18:34 - Update Info RX: 1 151s 4936mV 489mA 0
+13:18:35 - Update Info RX: 1 152s 4936mV 491mA 0
+13:18:36 - Update Info RX: 1 153s 4936mV 490mA 0
+13:18:37 - Update Info RX: 1 154s 4936mV 491mA 0
+13:18:38 - Update Info RX: 1 155s 4936mV 490mA 0
+13:18:39 - Update Info RX: 1 156s 4936mV 490mA 0
+13:18:40 - Update Info RX: 1 157s 4936mV 490mA 0
+13:18:41 - Update Info RX: 1 158s 4936mV 490mA 0
+13:18:41 - Update SCRIPT: RUN
+13:18:42 - Update Info RX: 1 159s 4936mV 491mA 0
+13:18:43 - Update Info RX: 1 160s 4936mV 490mA 0
+13:18:44 - Update Info RX: 1 161s 4936mV 490mA 0
+13:18:45 - Update Info RX: 1 162s 4936mV 491mA 0
+13:18:46 - Update Info RX: 1 163s 4956mV 448mA 0
+13:18:47 - Update Info RX: 1 164s 4948mV 461mA 0
+13:18:48 - Update Info RX: 1 165s 4936mV 490mA 0
+13:18:49 - Update Info RX: 1 166s 4844mV 678mA 0
+13:18:50 - Update Info RX: 1 167s 5008mV 326mA 0
+13:18:51 - Update Info RX: 1 168s 4984mV 384mA 0
+13:18:51 - Update SCRIPT: RUN
+13:18:52 - Update Info RX: 1 169s 4908mV 551mA 0
+13:18:53 - Update Info RX: 1 170s 4928mV 509mA 0
+13:18:54 - Update Info RX: 1 171s 4920mV 466mA 0
+13:18:55 - Update Info RX: 1 172s 4888mV 586mA 0
+13:18:56 - Update Info RX: 1 173s 4888mV 587mA 0
+13:18:57 - Update Info RX: 1 174s 4888mV 586mA 0
+13:18:58 - Update Info RX: 1 175s 4888mV 587mA 0
+13:18:59 - Update Info RX: 1 176s 4888mV 588mA 0
+13:19:00 - Update Info RX: 1 177s 4888mV 586mA 0
+13:19:01 - Update Info RX: 1 178s 4888mV 588mA 0
+13:19:01 - Update SCRIPT: RUN
+13:19:02 - Update Info RX: 1 179s 4888mV 587mA 0
+13:19:03 - Update Info RX: 1 180s 4888mV 587mA 0
+13:19:04 - Update Info RX: 1 181s 4888mV 587mA 0
+13:19:04 - Update Info RX: 1 182s 4888mV 587mA 0
+13:19:05 - Update Info RX: 1 183s 4888mV 586mA 0
+13:19:06 - Update Info RX: 1 184s 4888mV 587mA 0
+13:19:07 - Update Info RX: 1 185s 4884mV 587mA 0
+13:19:08 - Update Info RX: 1 186s 4888mV 586mA 0
+13:19:09 - Update Info RX: 1 187s 4888mV 587mA 0
+13:19:10 - Update Info RX: 1 188s 4888mV 586mA 0
+13:19:11 - Update Info RX: 1 189s 4888mV 586mA 0
+13:19:11 - Update SCRIPT: RUN
+13:19:12 - Update Info RX: 1 190s 4888mV 586mA 0
+13:19:13 - Update Info RX: 1 191s 4888mV 586mA 0
+13:19:14 - Update Info RX: 1 192s 4888mV 587mA 0
+13:19:15 - Update Info RX: 1 193s 4888mV 588mA 0
+13:19:16 - Update Info RX: 1 194s 4888mV 587mA 0
+13:19:17 - Update Info RX: 1 195s 4884mV 586mA 0
+13:19:18 - Update Info RX: 1 196s 4888mV 587mA 0
+13:19:19 - Update Info RX: 1 197s 4888mV 588mA 0
+13:19:20 - Update Info RX: 1 198s 4888mV 588mA 0
+13:19:21 - Update Info RX: 1 199s 4888mV 586mA 0
+13:19:21 - Update SCRIPT: RUN
+13:19:22 - Update Info RX: 1 200s 4888mV 586mA 0
+13:19:23 - Update Info RX: 1 201s 4888mV 586mA 0
+13:19:24 - Update Info RX: 1 202s 4888mV 587mA 0
+13:19:25 - Update Info RX: 1 203s 4884mV 587mA 0
+13:19:26 - Update Info RX: 1 204s 4888mV 586mA 0
+13:19:27 - Update Info RX: 1 205s 4888mV 587mA 0
+13:19:28 - Update Info RX: 1 206s 4888mV 586mA 0
+13:19:29 - Update Info RX: 1 207s 4884mV 587mA 0
+13:19:30 - Update Info RX: 1 208s 4884mV 587mA 0
+13:19:31 - Update Info RX: 1 209s 4888mV 587mA 0
+13:19:31 - Update SCRIPT: STOP
+13:19:31 - Update Info TX: SETLED,2,OFF
+13:19:31 - Update USB Hub TX: SETCHARGE,2
+13:19:31 - Update SCRIPT: Analyzis stoped by SCRIPT
